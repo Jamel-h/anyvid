@@ -2042,6 +2042,13 @@ input, select, textarea {
 			display: none;
 		}
 
+/* Responsive */
+
+.responsive {
+   		max-width: 100%;
+   		height: auto;
+}
+
 /* Image */
 
 	.image {
