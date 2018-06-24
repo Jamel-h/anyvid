@@ -1,0 +1,123 @@
+
+/* my stuff starts below */
+
+#page-container {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+#player-container {
+  float: left; 
+}
+
+#related-container {
+  float: left;
+  width: 30%;
+  margin-left: 10px;
+  
+}
+
+#video-title{
+  font-size: 24px;
+}
+
+#comments{
+  font-size: 13px;
+}
+
+/* styles for search */
+#search,
+#search-button {
+  position: relative;
+  top: -12px;
+}
+
+#search {
+  width: 580px;
+}
+
+#search-button input {
+  background:url('images/youtube_magnifyingglass.png') no-repeat;
+  width: 70px;
+  position: relative;
+  top: -24px;
+  left: 766px;
+  height: 25px;
+}
+
+/* styles for comments */
+.comment {
+  clear: both;
+  padding-top: 5px;
+}
+
+.avatar {
+  float:left;
+  padding-right: 5px;
+}
+
+.commenter-name {
+  float:left;
+  color: #167AC6;
+  font-size: 13px;
+  font-weight: Bold;
+}
+
+.comment-date {
+  color: #333;
+  font-size: 11px;
+  margin-left: 10px;
+}
+
+.comment-content {
+  font-size: 15px;
+}
+
+#add-comment {
+  width: 640px;
+}
+
+/* style for the advertisement */
+#ads {
+  height: 265px;
+  font: 15px arial, sans-serif;
+  color: red;
+  border: 10px solid red;
+  text-align: center;
+}
+
+/* style for the related content */
+.thumbnail {
+  float:left;
+}
+
+.related {
+  clear: both;
+  margin-top: 10px;
+}
+
+.thumb-title {
+  color: #333;
+  font-size:  13px;
+  font-weight: Bold;
+}
+
+.thumb-author {
+  color: #333;
+  font-size:  11px;
+}
+
+.thumb-views {
+  color: #333;
+  font-size:  11px;
+}
+
+footer {
+ clear: both; /* preview from github was not putting footer at very bottom, so this resolves the issue */
+}
+
+
+
+*{ 
+  font-family: Arial,Helvetica Neue,Helvetica,sans-serif
+} 
