@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(mosk.min.css);
+@import url(nexa.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
 /*
@@ -182,7 +183,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3d4449;
-		font-family: "Mosk";
+		font-family: "Nexa";
 		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -1789,7 +1790,7 @@ input, select, textarea {
 	}
 
 	header p {
-		font-family: "Mosk Medium 500", serif;
+		font-family: "Nexa";
 		font-size: 1em;
 		font-weight: 400;
 		letter-spacing: 0.075em;
@@ -2475,7 +2476,7 @@ input, select, textarea {
 		color: #0066ff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Mosk";
+		font-family: "Nexa";
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.5em;
@@ -3321,7 +3322,7 @@ input, select, textarea {
 		#header .logo {
 			border-bottom: 0;
 			color: inherit;
-			font-family: "Mosk";
+			font-family: "Nexa";
 			font-size: 1.125em;
 		}
 
@@ -3481,7 +3482,7 @@ input, select, textarea {
 		-ms-user-select: none;
 		user-select: none;
 		color: #3d4449;
-		font-family: "Mosk";
+		font-family: "Nexa";
 		font-family: 400;
 		letter-spacing: 0.075em;
 		list-style: none;
