@@ -182,7 +182,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3d4449;
-		font-family: "Roboto Slab", serif;
+		font-family: "Mosk";
 		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -2475,7 +2475,7 @@ input, select, textarea {
 		color: #0066ff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Roboto Slab", serif;
+		font-family: "Mosk";
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.5em;
@@ -3481,7 +3481,7 @@ input, select, textarea {
 		-ms-user-select: none;
 		user-select: none;
 		color: #3d4449;
-		font-family: "Roboto Slab", serif;
+		font-family: "Mosk";
 		font-family: 400;
 		letter-spacing: 0.075em;
 		list-style: none;
