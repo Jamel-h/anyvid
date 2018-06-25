@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@import url(mosk.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
 /*
@@ -3320,7 +3321,7 @@ input, select, textarea {
 		#header .logo {
 			border-bottom: 0;
 			color: inherit;
-			font-family: "Roboto Slab", serif;
+			font-family: "Mosk";
 			font-size: 1.125em;
 		}
 
