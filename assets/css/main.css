@@ -2045,8 +2045,8 @@ input, select, textarea {
 /* Responsive */
 
 .responsive {
-   		width: 40% !important;
-   		height: 40% !important;
+   		width: 100% !important;
+   		height: auto !important;
 }
 
 /* Image */
